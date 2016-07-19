@@ -1,3 +1,9 @@
 h1{
-    font-family:"Cursive";
+    font-family:Cursive;
+}
+body{
+    background-color:lightblue;
+}
+p{
+    font-family: Arial;
 }
