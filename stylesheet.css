@@ -9,20 +9,21 @@ p{
     font-size:14px;
 }
 img {
-    Width:150px; 
-    Height:150px;
+    Width:350px; 
+    Height:350px;
 }
 .nav{
     list-style: none;
 }
 .nav li{
-    float: ;
+    float:left ;
 }
 .nav > li a{
     display:; 
-    padding:;
+    padding:15px 25px;
     text-decoration:;
-    border-bottom: ;
+    border-bottom:1px solid #555;
     color:;
     transition:;
+    font-family: 'Lobster', cursive;
 }
