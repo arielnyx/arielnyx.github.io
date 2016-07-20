@@ -16,13 +16,13 @@ img {
     list-style: none;
 }
 .nav li{
-    float: left;
+    float: ;
 }
 .nav > li a{
-    display:block; 
-    padding:12px 18px;
-    text-decoration:none;
-    border-bottom: 1px soild #eee;
-    color:#999;
-    transition:all ease .5s;
+    display:; 
+    padding:;
+    text-decoration:;
+    border-bottom: ;
+    color:;
+    transition:;
 }
