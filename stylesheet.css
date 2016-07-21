@@ -19,14 +19,21 @@ img {
     float:left ;
 }
 .nav > li a{
-    display:; 
+    display:block; 
     padding:15px 25px;
-    text-decoration:;
+    text-decoration:none;
     border-bottom:1px solid #555;
-    color:;
-    transition:;
+    color:rgb(88, 160, 255);
+    -webkit-transition: all 0.3s ease-in;
+	-moz-transition: all 0.3s ease-in;
+	-o-transition: all 0.3s ease-in;
     font-family: 'Lobster', cursive;
 }
 li{
     font-size: 25px
+}
+/* Change the link color on hover */
+li a:hover {
+    background-color:black;
+    color: lightblue;
 }
