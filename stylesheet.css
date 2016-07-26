@@ -42,3 +42,8 @@ li a:hover {
    font-family: Arial;
     font-size:25px;
 }
+#open{
+    font-family: Arial;
+    font-size: 45px;
+    text-align: center;
+}
