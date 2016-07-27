@@ -50,3 +50,15 @@ li a:hover {
 div{
     display: block;
 }
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  text-align: center;
+  display: block;
+  background-color: grey;
+}
+#ul{
+ list-style-type:none;
+}
