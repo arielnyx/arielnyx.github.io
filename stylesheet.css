@@ -7,7 +7,9 @@ body{
 .para{
     font-family: Arial;
     font-size:25px;
-    text-align: center
+    text-align: center;
+    background-color: black;
+    color:	rgb(0, 191, 255);
 }
 img {
     Width:350px; 
@@ -41,14 +43,19 @@ li a:hover {
 .list{
    font-family: Arial;
     font-size:25px;
+    background-color: black;
+    color:	rgb(0, 191, 255);
+    list-style: none;
 }
 #open{
     font-family: Arial;
     font-size: 45px;
     text-align: center;
+    background-color: white;
 }
-div{
+.div{
     display: block;
+    text-align: center;
 }
 .footer {
   position: absolute;
@@ -65,4 +72,8 @@ div{
 .active{
     background-color: #98FB98;
     color: 	#F5DEB3;
+}
+.pics{
+    background-color: grey;
+    padding:20px
 }
